@@ -14,3 +14,12 @@ The 2D pipeline is evaluated under three transforms:
 - **DWT (wavelets)** using multiple bases (e.g., `sym8`, `coif5`, `bior6.8`) for multi-scale localization
 
 The repo includes periodic and non-periodic image examples, square and irregular masks across multiple occlusion levels, and quantitative metrics (MSE, RMSE, MAE, SSIM, PSNR) with summary plots.
+
+To Cite this: 
+@misc{Ejaz2025InpaintingRepo,
+  author       = {Sania Ejaz},
+  title        = {Frequency-Based Approaches to Image Inpainting},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Sania-Ejaz-Code/frequency-based-approaches-to-image-inpainting}},
+  note         = {Version 1.0.0},
+}
